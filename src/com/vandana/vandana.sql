@@ -1,0 +1,1 @@
+CREATE TABLE department(dname varchar(12));
